@@ -3,6 +3,7 @@ Certainly! Below is the README file for your `CommunityVoting` smart contract:
 ---
 
 # Community Voting Smart Contract
+![image](https://github.com/user-attachments/assets/cc56c3d0-3cfc-486f-8bf2-c647fd5f6490)
 
 ## Vision
 
